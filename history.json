@@ -1,0 +1,80 @@
+{
+    "12/16/19": {
+        "amount": 50,
+        "btcAmount": 0.00692322,
+        "fee": 1.99,
+        "priceOnPurchase": 6934.63
+    },
+    "12/10/19": {
+        "amount": 50,
+        "btcAmount": 0.0066486,
+        "fee": 1.99,
+        "priceOnPurchase": 7221.07
+    },
+    "11/24/19": {
+        "amount": 50,
+        "btcAmount": 0.00711144,
+        "fee": 1.99,
+        "priceOnPurchase": 6751.09
+    },
+    "11/22/19": {
+        "amount": 50,
+        "btcAmount": 0.00670331,
+        "fee": 1.99,
+        "priceOnPurchase": 7162.13
+    },
+    "10/05/19": {
+        "amount": 130,
+        "btcAmount": 0.01537553,
+        "fee": 4.99,
+        "priceOnPurchase": 8130.45
+    },
+    "09/27/19": {
+        "amount": 10,
+        "btcAmount": 0.00112206,
+        "fee": 0.99,
+        "priceOnPurchase": 8029.87
+    },
+    "09/24/19-1": {
+        "amount": 50,
+        "btcAmount": 0.004934568911,
+        "fee": 1.99,
+        "priceOnPurchase": 9729.32
+    },
+    "09/24/19-2": {
+        "amount": 50,
+        "btcAmount": 0.004934568911,
+        "fee": 1.99,
+        "priceOnPurchase": 9729.32
+    },
+    "09/19/19": {
+        "amount": 50,
+        "btcAmount": 0.004706862745,
+        "fee": 1.99,
+        "priceOnPurchase": 10200.00
+    },
+    "08/29/19": {
+        "amount": 50,
+        "btcAmount": 0.00505505,
+        "fee": 1.99,
+        "priceOnPurchase": 9497.43
+    },
+    "07/23/19": {
+        "amount": 50,
+        "btcAmount": 0.00493505,
+        "fee": 1.99,
+        "priceOnPurchase": 9728.37
+    },
+    "07/20/19": {
+        "amount": 50,
+        "btcAmount": 0.00446661,
+        "fee": 1.99,
+        "priceOnPurchase": 10748.64
+    },
+    "07/08/19": {
+        "amount": 157,
+        "btcAmount": 0.01232606,
+        "fee": 6.02,
+        "priceOnPurchase": 12248.85
+    }
+}
